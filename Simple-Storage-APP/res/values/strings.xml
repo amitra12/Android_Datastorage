@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Storage App</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Splash Screen Activity -->
+    <string name="cmpe_277">CMPE 277 SEC-01</string>
+    <string name="assignment_3">Assignment 3</string>
+    <string name="title">Android Storage App</string>
+
+    <!-- Home Activity -->
+    <string name="app_title">Android Data Storage Sample</string>
+    <string name="preferences">Preferences</string>
+    <string name="sqlite">SQLite</string>
+    <string name="close">Close</string>
+
+    <!-- Preference Storage Activity -->
+    <string name="preference_storage_view">Preference Storage View</string>
+    <string name="book_name">Android Book Name</string>
+    <string name="book_author">Android Book Author</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="max_char">Maximum 70 Characters</string>
+    <string name="maximum_char">Maximum 255 characters only</string>
+
+    <!-- SQLite Activity -->
+    <string name="sqlite_storage_view">SQLite Storage View</string>
+    <string name="message">Message</string>
+    <string name="message_hint">Enter your message here...</string>
+    <string name="count">Count</string>
+    <string name="book_details">Book Details</string>
+
+</resources>
